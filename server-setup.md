@@ -23,19 +23,25 @@ Hvis der ikke er noget output, så virkede det!
 ![image](https://user-images.githubusercontent.com/1210224/46156576-117cf280-c27a-11e8-87f6-49d5c56a0aaf.png)
 
 Derefter skal i ssh'e ind på serveren
-```ssh -i [pem fil] ec2-user@IP```
+```
+ssh -i [pem fil] ec2-user@IP
+```
 
 ## Gode kommandoer:
 
 Installer et program via package manager
-```sudo yum install [program]``` 
+```
+sudo yum install [program]
+``` 
 fx
 ```
 sudo yum install java
 ```
 
 Download en fil
-```wget [fil]```
+```
+wget [fil]
+```
 fx
 ```
 wget http://www.apache.org/dyn/closer.lua/lucene/solr/7.5.0/solr-7.5.0.tgz
