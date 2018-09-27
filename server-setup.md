@@ -29,7 +29,7 @@ ssh -i [pem fil] ec2-user@IP
 
 ## Gode kommandoer:
 
-Installer et program via package manager
+### Installer et program via package manager
 ```
 sudo yum install [program]
 ``` 
@@ -38,7 +38,7 @@ fx
 sudo yum install java
 ```
 
-Download en fil
+### Download en fil
 ```
 wget [fil]
 ```
@@ -54,7 +54,7 @@ I kan forsikre jer om at filen ligger der ved at køre `ls`
 
 Læg mærke til filen `solr-7.5.0.tgz`
 
-Udpak en tar fil
+### Udpak en tar fil
 ```tar xvf [fil]```
 fx
 ```
