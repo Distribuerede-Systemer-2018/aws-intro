@@ -3,7 +3,7 @@
 Security groups bestemmer hvem der har lov til at forbinde til serveren. Som udgangspunkt er der kun adgang via SSH (port 22).
 
 For at åbne op, fx for SolR, skal i redigere inbound rules for serverens security group.
-Dette gøres ved at klikke på instansen i EC2 dashboardet, og under security groups trykker i på gruppens navn (hvis i ikke har ændret noget da i satte serveren op, hedder gruppen noget i stil med 'launch-wizard'
+Dette gøres ved at klikke på serveren i EC2 dashboardet, og under security groups trykker i på gruppens navn (hvis i ikke har ændret noget da i satte serveren op, hedder gruppen noget i stil med 'launch-wizard').
 
 ![image](https://user-images.githubusercontent.com/1210224/46155765-5bfd6f80-c278-11e8-9acb-900fd76fa676.png)
 
