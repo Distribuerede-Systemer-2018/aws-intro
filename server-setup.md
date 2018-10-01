@@ -44,7 +44,7 @@ wget [fil]
 ```
 fx
 ```
-wget http://www.apache.org/dyn/closer.lua/lucene/solr/7.5.0/solr-7.5.0.tgz
+wget http://www-eu.apache.org/dist/lucene/solr/7.5.0/solr-7.5.0.tgz
 ```
 ![image](https://user-images.githubusercontent.com/1210224/46156655-3c674680-c27a-11e8-827e-8730e223ca97.png)
 Læg mærke til  `‘solr-7.5.0.tgz’ saved [16582]` - Det betyder at i har downloadet filen `solr-7.5.0.tgz`
